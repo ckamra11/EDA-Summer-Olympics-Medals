@@ -1,0 +1,2 @@
+# EDA-Summer-Olympics-Medals
+This is a project from datacamp.com applying Python skills for data science. The project involves exploration of data from past summer olympics pertaining to medals won by each country. The datasets and the prompts in the notebooks belong to Datacamp.com and I do not claim to be the author of the notebook for this analysis. Only the codes have been modified by me with the purpose of improving my programming skills.
